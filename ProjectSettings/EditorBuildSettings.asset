@@ -5,9 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/stencil change scene.unity
+  - enabled: 0
+    path: Assets/Scenes/Portal test.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2730d3960fae15447be11fa007597a48, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: cfd94404dc88ccd4f9d37b4f1fafd5ed, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f33ded523ca077843a2f2781f9a3a1b6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f15f3e05457d53346aeda9d00f56ab36, type: 2}
   m_UseUCBPForAssetBundles: 0
